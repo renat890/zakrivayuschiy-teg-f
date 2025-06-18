@@ -567,12 +567,11 @@
       </div>
       <div class="dialog__actions">
         <button
-          class="button dialog__button"
-          id="confirm-btn"
+          onclick="window['dialog'].close()"
           type="button"
-          onclick="event.preventDefault(); document.getElementById('dialog').close();"
+          class="button dialog__button"
         >
-          <span class="button__text-md">Ок</span>
+          <span class="button__text-md">Oк</span>
         </button>
       </div>
     </dialog>
