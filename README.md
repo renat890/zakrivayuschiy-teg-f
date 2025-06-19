@@ -1,1 +1,1 @@
-https://renat890.github.io/zakrivayuschiy-teg-f/
+https://github.com/renat890/zakrivayuschiy-teg-f
